@@ -29,4 +29,3 @@ p2Button.addEventListener('click', () => {
 
   p2Display.textContent = p2Score;
 });
-
